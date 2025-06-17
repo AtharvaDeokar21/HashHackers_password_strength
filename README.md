@@ -53,7 +53,7 @@ Our model is a **Decision Tree Regressor** that predicts password strength based
 
 ## Clone the Repository
 ```bash
-git clone https://github.com/Saur-Deshmukh/HackOHire-HashHackers.git
+git clone https://github.com/AtharvaDeokar21/HashHackers_password_strength.git
 ```
 ## Ollama
 
